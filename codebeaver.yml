@@ -1,0 +1,1 @@
+workspaces: [{'from': 'pytest', 'name': 'backend', 'path': 'backend'}, {'from': 'jest', 'name': 'frontend', 'path': 'frontend'}]
